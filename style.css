@@ -1,0 +1,35 @@
+.app h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+}
+.counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    margin: 2rem;
+}
+
+h2 {
+    padding: 2rem;
+}
+
+.btn2 {
+
+    display: flex;
+    align-items: center;
+    margin-left: 45%;
+}
+.btn {
+     display: inline-block;
+     align-items: center;
+
+ }
+.input {
+    display: flex;
+    align-items: center;
+    margin-left: 35%;
+    margin-bottom: 0.5rem;
+}
